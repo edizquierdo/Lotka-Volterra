@@ -12,4 +12,4 @@ The system of equations are implemented as a class in lotkavolterra.py. The seco
 ```
 $ python sim_lotkavolterra.py
 ```
-![Screenshot of the animation of the simulated worm's body in Mathematica](https://github.com/edizquierdo/Lotka-Volterra/blob/main/viz.png?raw=true)
+![Screenshot of the two variables over time](https://github.com/edizquierdo/Lotka-Volterra/blob/main/viz.png?raw=true)
